@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1699134269 source:c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"funcionesGlobales.h"
+	"clsFecha.h"
+	"clsTipoDeporte.h"
+	"clsDeporte.h"
+	"clsEquipo.h"
+	"clsJugador.h"
+	"Configuracion.h"
+	"submenuJugadores.h"
+	"subMenuDeportes.h"
+	"subMenuConfiguracion.h"
+	"subMenuEquipos.h"
+	"subMenuTipoDeporte.h"
+	"reportes.h"
+
+1698153337 c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\funcionesglobales.h
+
+1696023887 c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\clsfecha.h
+
+1701283751 c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\clstipodeporte.h
+
+1701283530 c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\clsdeporte.h
+
+1701295433 c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\clsequipo.h
+
+1701271363 c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\clsjugador.h
+
+1699484289 c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\configuracion.h
+
+1695760762 c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\submenujugadores.h
+
+1695760762 c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\submenudeportes.h
+
+1699134107 c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\submenuconfiguracion.h
+
+1698194563 c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\submenuequipos.h
+
+1698265385 c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\submenutipodeporte.h
+
+1701293905 c:\users\claud\onedrive\escritorio\labo_tp\nuñez_claudio\reportes.h
+
