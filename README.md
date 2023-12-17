@@ -2,13 +2,12 @@
 
  Se trata de un proyecto de consola hecho en lenguaje C++, que administra un listado de jugadores, deportes, tipos de deportes y equipos.
  
+ Los usuarios pueden realizar las tareas básicas de un CRUD (leer, modificar, crear y eliminar registros).
  
  Posee validaciones y restricciones varias como no poder ingresar un mismo documento, una fecha inexistente,  un deporte que no se encuentre listado, etc.
  
- 
  Posee un menú para hacerlo más amigable al usuario.
- 
- 
+
  - Se utilizó Programación Orientada a Objetos.
  - Manejo de archivos para guardar, editar, borrar los datos localmente.
  - Uso de Punteros.
